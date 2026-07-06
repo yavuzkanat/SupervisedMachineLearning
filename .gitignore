@@ -3,3 +3,4 @@
 
 # Ignore Kaggle kernel metadata configuration
 kaggle/kernel-metadata.json
+kaggle/kernel.ipynb
