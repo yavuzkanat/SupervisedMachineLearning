@@ -1,1 +1,5 @@
+# Ignore local environment variables (API tokens, secrets)
 .env
+
+# Ignore Kaggle kernel metadata configuration
+kaggle/kernel-metadata.json
